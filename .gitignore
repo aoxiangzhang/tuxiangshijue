@@ -1,0 +1,5 @@
+*.pyc
+*.cpython-36.pyc
+Artistic/*
+videos/*
+real_time_demo_output/*
